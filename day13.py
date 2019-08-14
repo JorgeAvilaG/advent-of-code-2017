@@ -26,4 +26,4 @@ while caught:
             break
 
 
-print("Solution Part 1:", n)
+print("Solution Part 2:", n)
